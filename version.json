@@ -1,0 +1,6 @@
+{
+  "version": "1.0.0",
+  "android_url": "https://meusite.com/app-release.apk",
+  "windows_url": "https://meusite.com/app-installer.exe",
+  "changelog": "Correção de bugs e nova tela de login."
+}
