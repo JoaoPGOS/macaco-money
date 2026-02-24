@@ -1,6 +1,6 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "android_url": "https://joaopgos.github.io/macaco-monkey/app-release.apk",
   "windows_url": "https://joaopgos.github.io/macaco-monkey/app-installer.exe",
-  "changelog": "bilau version"
+  "changelog": "bilau version upgraded"
 }
