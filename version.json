@@ -1,6 +1,6 @@
 {
-  "version": "1.2.0",
+  "version": "1.2.1",
   "android_url": "https://joaopgos.github.io/macaco-money/app-release.apk",
   "windows_url": "https://joaopgos.github.io/macaco-money/app-installer.exe",
-  "changelog": "..."
+  "changelog": "notification bug fix, tasks bug fix, should work on background now"
 }
